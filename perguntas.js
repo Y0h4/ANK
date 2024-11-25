@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'FAZ O L',
+    'Por que devemos adorar o LULA?',
+    'por que com os seus 13 cm, ele faz com que acabe a pobreza no mundo'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'VOCE GOSTA DE BATER NÉ NEYMAR?',
+    'EXEMPLO DE PODER DO GRANDIOSO',
+    'COM APENAS 0,0000001%  DE SEU PODER, CRIOU MILHÕES DE DESASTRES FINANCEIROS AO BRASIL'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'LLLLLLLLLLLLL',
+    'FAZ O L?',
+    'FAZ O L DE LULA JOGADOR DE LEGUE OF LEGENDS E PROFISSIONAL DA LOUD'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'FIM OU UM NOVO COMEÇO?',
+    'O QUE SIGNIFICA LULA?',
+    'SIGNIFICA AMOR, UNIÃO, PICANHA,PICANHA E PICANHA. FAZ O L CARALHO'
 )
